@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Assessment" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="fontFamily">@font/robotolight</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="Theme.Assessment" parent="Base.Theme.Assessment" />
+
+<!--    <style name="tvSummaryStyle" parent="Theme.Billz">-->
+<!--        <item name="android:textColor">@color/white</item>-->
+<!--        <item name="android:textStyle">bold</item>-->
+<!--        <item name="android:textSize">20dp</item>-->
+
+
+<!--    </style>-->
+
+</resources>
